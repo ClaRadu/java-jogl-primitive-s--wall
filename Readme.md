@@ -38,6 +38,6 @@ For me it was: "jogl/jogamp-all-platforms/lib/windows-i586/" (on windows 32 bit)
 Project full name: 'Java+Jogl Cubes'
 Official name: 'Primitive(s) Wall by C.R.G.'
 Version: 1.11.0
-crgames.elementfx.com
+http://crgames.elementfx.com
 
 C.R.G. 2018
